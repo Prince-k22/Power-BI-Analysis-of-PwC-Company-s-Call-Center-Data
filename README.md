@@ -2,6 +2,8 @@
 
 This Power BI project focuses on analyzing and visualizing call center data from PwC Company, which comprises a [dataset](01 Call-Center-Dataset.xlsx) with 5000 records. The dataset includes the following columns: Agent, Date, Time, Topic, Answered (Y/N), Resolved, Speed of Answer in seconds, Average Talk Duration, and Satisfaction Rating. The primary objective of this project is to provide valuable insights into the performance and efficiency of PwC's call center operations, enabling data-driven decision-making and enhancing customer service.
 
+Link to Dashboard: https://www.novypro.com/project/pwc-call-center-report-1
+
 ![Dashboard](https://github.com/Prince-k22/Power-BI-Analysis-of-PwC-Company-s-Call-Center-Data/assets/145648093/f8f9da17-9c18-4cef-96b7-d51babf2c63f)
 
 
